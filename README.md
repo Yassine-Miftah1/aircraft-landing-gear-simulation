@@ -1,18 +1,19 @@
 #Overview : 
 
+
 This project presents a numerical simulation of an aircraft landing gear system during touchdown. The landing gear is modeled as a dynamic mass–spring–damper system and solved using a 4th-order Runge–Kutta method to analyze its transient response under impact loading.
 
-The objective is to study:
+-The objective is to study:
 
-Vertical compression behavior
+-Vertical compression behavior
 
-Oscillatory damping response
+-Oscillatory damping response
 
-G-load evolution during landing
+-G-load evolution during landing
 
-Structural dynamic behavior under impact
+-Structural dynamic behavior under impact
 
-This project demonstrates the application of numerical methods to aerospace structural dynamics problems.
+----->  This project demonstrates the application of numerical methods to aerospace structural dynamics problems.
 
 
 #Physical Model :
